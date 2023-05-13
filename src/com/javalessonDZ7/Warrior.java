@@ -4,7 +4,7 @@ public class Warrior extends Hero{
 
     @Override
     public void applySuperAbility(String superAbilityType) {
-        System.out.println("Warrior used crytical damage!");
+        System.out.println("Warrior used critical damage!");
     }
 }
 

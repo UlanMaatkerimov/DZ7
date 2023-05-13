@@ -11,7 +11,5 @@ public class Main {
             hero[i].applySuperAbility("");
 
         }
-
-
     }
 }

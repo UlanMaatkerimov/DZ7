@@ -5,7 +5,7 @@ public class Magic extends Hero{
 
     @Override
     public void applySuperAbility(String superAbilityType) {
-        System.out.println("Magic used crytical damage!");
+        System.out.println("Magic used critical damage!");
     }
 }
 
